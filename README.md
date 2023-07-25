@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khalil Abuibaid
 - 👀 I’m interested in robotics, control theory and machine learning.
 - 🌱 I’m currently learning simulation (Gazebo, Mujoco, Isaac sim) and ros. 
-- 💞️ I’m looking to join control theory with machine learning into robotics field.
+- 💞️ I’m looking to combine control theory with machine learning into robotics field.
 - 📫 How to reach me: khalil.abuibaid@rptu.de.
 
 <!---
