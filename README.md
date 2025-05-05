@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Khalil Abuibaid
-- 👀 I’m interested in robotics, control theory and machine learning.
-- 🌱 I’m currently learning simulation (Gazebo, Mujoco, Isaac sim) and ros. 
-- 💞️ I’m looking to infuse learning motion and interaction control theory into robots.
+- 👀 I’m interested in robot motion and interaction control, robot learning skills and model predictive control.
+- 🌱 I’m currently focusing on learning based MPC for robot motion and interaction in simulation, i.e. Mujoco, with ros2 and then hardware. 
 - 📫 How to reach me: khalil.abuibaid@rptu.de.
 
 <!---
